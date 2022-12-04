@@ -1,0 +1,6 @@
+.vscode/
+.metadata/
+.settings/
+?/
+org.eclipse*/
+config.ini
